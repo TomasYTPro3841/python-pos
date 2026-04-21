@@ -74,7 +74,7 @@ POS> exit                    # Cerrar servidor
 ```bash
 python pos_gui.py
 ```
-
+El cliente GUI se ha eliminado de conexión.
 Credenciales por defecto:
 - Usuario: `admin`
 - Contraseña: `admin`
